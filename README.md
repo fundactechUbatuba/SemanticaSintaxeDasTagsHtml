@@ -19,7 +19,7 @@ Exemplo:
 
 Uma tag pode possuir atributos:
 
-<a href="https://exemplo.com">Acessar site</a>
+<a href="exemplo">Acessar site</a>
 
 Nesse exemplo, href é um atributo que informa o endereço do link.
 
