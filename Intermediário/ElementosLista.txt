@@ -1,0 +1,20 @@
+Elementos de listas não ordenadas <ul></ul>
+
+<ul>
+    <li>Veículos</li> são os itens da lista
+    <li>Tecnologia</li>
+    
+</ul>
+
+Elementos de listas ordenadas
+
+<ol>
+   <li></li>
+</ol>
+
+Listas Aninhadas
+Quando tem um item dentro do outro
+
+<li>
+    <ul>
+</li>

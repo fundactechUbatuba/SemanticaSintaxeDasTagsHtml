@@ -1,0 +1,22 @@
+<h1></h1> Tamanhos de fontes de títulos
+
+Lorem Ipsum acessar o site e copiar o texto apresentado
+no site de teste de texto.
+
+
+Mussum IPSUM - opcão de texto apresentado.
+
+
+<p></p> tags de parágrafo
+
+<hr> não precisa tag fechamento ,( horizontal row ) 
+passa uma linha na horizontal
+
+tags de comentários 
+
+<!-- -->
+
+não aparece na view do site, porque o 
+navegador não mostra o mas aparece no código comentado.
+
+  

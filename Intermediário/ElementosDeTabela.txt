@@ -1,0 +1,10 @@
+A tag paterna que começa 
+com a criar a tabela
+
+<table>
+      	<tr>
+	 
+          <td>Conteúdo</td>Table Data(dados da tabela) * 
+	
+	</tr> Table Row(linha da tabela>
+</table>

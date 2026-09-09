@@ -1,0 +1,10 @@
+
+Tags que referenciam links no conteúdo 
+
+<a href=""></a> para referenciar um link
+
+para referenciar uma ancora 
+
+<a href="#"></a> 
+
+e criar um id no atributo que vai ser referenciado

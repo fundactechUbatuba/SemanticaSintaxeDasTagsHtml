@@ -1,0 +1,28 @@
+a tag html de imagem
+
+<img> não precisa de tag de fechamento pois não tem conteúdo
+
+src="" o atributo que passa o caminho da imagem
+
+alt= é o que descreve a imagem caso a página não 
+carregue a imagem
+
+<img src=" " alt=" " title="">
+
+caso o caminho da imagem leve a uma pasta
+especificar o nome: 
+<img src="pasta/ocaminhodaimagem.formato">
+
+propriedades de altura = height 
+
+propriedades de largura = width
+
+Tag HTML Figure -> usada para definir uma foto, 
+ilustração, diagrama e etc.
+
+<figure>
+      <figcaption>
+          permite digitar um texto dentro de uma tag figure
+      
+      </figcaption>
+</figure>

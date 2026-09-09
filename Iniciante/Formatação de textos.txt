@@ -1,0 +1,13 @@
+Exemplos de tags de formatação 
+
+<b>negrito</b>
+<br>quebra de linha
+<strong>destacar o texto</strong>
+<i>itálico</i>
+<em>ênfase</em> coloca alguma ênfase no texto por exemplos leitores 
+de tela 
+<mark>tipo um marca texto</mark>
+<u>subscribe</u>
+<del>palavra riscado</>
+<sup>sobescrito</sup>
+<sub>subscrito</sub>
