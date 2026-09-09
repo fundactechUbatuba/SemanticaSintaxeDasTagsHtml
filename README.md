@@ -19,7 +19,7 @@ Exemplo:
 
 Uma tag pode possuir atributos:
 
-<a href="exemplo">Acessar site</a>
+<> a href="exemplo">Acessar site</a>
 
 Nesse exemplo, href é um atributo que informa o endereço do link.
 
@@ -30,16 +30,16 @@ A semântica consiste em utilizar cada elemento HTML de acordo com seu significa
 Algumas das principais tags semânticas são:
 
 Tag	Função
-<header>	Cabeçalho
-<nav>	Área de navegação
-<main>	Conteúdo principal
-<section>	Seção de conteúdo
-<article>	Conteúdo independente
-<aside>	Conteúdo complementar
-<footer>	Rodapé
-<h1> a <h6>	Títulos e subtítulos
-<p>	Parágrafo
-<strong>	Conteúdo de forte importância
-<em>	Conteúdo enfatizado
-<figure>	Conteúdo ilustrativo
-<figcaption>	Legenda de uma figura
+<header>>	Cabeçalho
+<nav>>	Área de navegação
+<main>>	Conteúdo principal
+<section>>	Seção de conteúdo
+<article>>	Conteúdo independente
+<aside>>	Conteúdo complementar
+<footer>>	Rodapé
+<h1>> a <h6>>	Títulos e subtítulos
+<p>>	Parágrafo
+<strong>>	Conteúdo de forte importância
+<em>>	Conteúdo enfatizado
+<figure>>	Conteúdo ilustrativo
+<figcaption>>	Legenda de uma figura
