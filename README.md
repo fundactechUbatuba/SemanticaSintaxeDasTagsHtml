@@ -1,44 +1,45 @@
 # SemanticaSintaxeDasTagsHtml
 
-Desenvolvimento Web — Oficina de Informática
+HTML: Semântica e Sintaxe
+O que é HTML?
 
-Tecnologia para o Futuro: aprender, criar, transformar e compartilhar.
+HTML (HyperText Markup Language) é uma linguagem de marcação utilizada para estruturar o conteúdo de páginas Web.
 
-Este repositório faz parte das atividades da Oficina de Informática, com foco na introdução ao Desenvolvimento Web para crianças e adolescentes.
+O HTML define a estrutura e o significado dos elementos de uma página, enquanto o CSS é utilizado para definir sua apresentação visual.
 
-A proposta é utilizar a tecnologia não apenas como ferramenta de consumo, mas como um instrumento de criação, aprendizagem, expressão, resolução de problemas e preparação para o futuro.
+Sintaxe das Tags
 
-🎯 Sobre o projeto
+A estrutura básica de uma tag HTML é:
 
-O desenvolvimento web permite que os alunos compreendam como funcionam os sites e aplicações que fazem parte do cotidiano.
+<tag>Conteúdo</tag>
 
-Durante as atividades, os alunos são incentivados a criar suas próprias páginas utilizando tecnologias fundamentais da Web, como:
+Exemplo:
 
-🧱 HTML — estrutura das páginas;
-🎨 CSS — aparência, organização e identidade visual;
-⚙️ JavaScript — interação e comportamento;
-🧠 Lógica de programação — resolução de problemas;
-🖥️ Git e GitHub — organização e compartilhamento dos projetos;
-🌐 Web — compreensão de como as tecnologias se conectam.
+<p>Este é um parágrafo.</p>
 
-O objetivo não é formar apenas futuros programadores, mas desenvolver competências que podem ser utilizadas em diferentes áreas da vida acadêmica, profissional e social.
+Uma tag pode possuir atributos:
 
-🚀 Por que ensinar Desenvolvimento Web para crianças?
+<a href="https://exemplo.com">Acessar site</a>
 
-Vivemos em uma sociedade cada vez mais dependente da tecnologia.
+Nesse exemplo, href é um atributo que informa o endereço do link.
 
-Sites, aplicativos, plataformas educacionais, sistemas públicos, bancos, lojas, redes sociais e ferramentas de inteligência artificial fazem parte da realidade cotidiana.
+Semântica HTML
 
-Entretanto, existe uma diferença importante entre saber utilizar tecnologia e saber criar tecnologia.
+A semântica consiste em utilizar cada elemento HTML de acordo com seu significado e finalidade.
 
-A oficina busca aproximar os alunos do segundo caminho.
+Algumas das principais tags semânticas são:
 
-Ao aprender a desenvolver uma página Web, a criança deixa de ser apenas uma usuária diante da tela e passa a compreender:
-
-"Eu também posso criar."
-
-Essa mudança de perspectiva é um dos principais objetivos pedagógicos da oficina de informática.
-
-🧠 Desenvolvimento do raciocínio lógico
-
-Programar exige que o aluno aprenda a dividir um problema em partes menores.
+Tag	Função
+<header>	Cabeçalho
+<nav>	Área de navegação
+<main>	Conteúdo principal
+<section>	Seção de conteúdo
+<article>	Conteúdo independente
+<aside>	Conteúdo complementar
+<footer>	Rodapé
+<h1> a <h6>	Títulos e subtítulos
+<p>	Parágrafo
+<strong>	Conteúdo de forte importância
+<em>	Conteúdo enfatizado
+<figure>	Conteúdo ilustrativo
+<figcaption>	Legenda de uma figura
