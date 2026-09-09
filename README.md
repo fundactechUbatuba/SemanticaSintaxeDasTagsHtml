@@ -37,7 +37,7 @@ Ao aprender a desenvolver uma página Web, a criança deixa de ser apenas uma us
 
 "Eu também posso criar."
 
-Essa mudança de perspectiva é um dos principais objetivos pedagógicos da oficina.
+Essa mudança de perspectiva é um dos principais objetivos pedagógicos da oficina de informática.
 
 🧠 Desenvolvimento do raciocínio lógico
 
